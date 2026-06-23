@@ -10,11 +10,18 @@ This project demonstrates a basic SOC Analyst home lab where Nmap and Wireshark 
 
 ### 🛠️ Tools Used
 
-- 🐉 Kali Linux
-- 🐧 Ubuntu Server (Wazuh)
-- 🛡️ Wazuh
-- 🌐 Nmap
-- 🦈 Wireshark
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/Wazuh-0055CC?style=for-the-badge&logo=wazuh&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"><br>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+---
+
 
 ---
 
@@ -42,20 +49,6 @@ The objective of this project is to:
 - ✅ Detect the operating system
 - ✅ Capture network traffic
 - ✅ Analyze network communications
-
----
-
-## 🛠️ Tools Used
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/Wazuh-0055CC?style=for-the-badge&logo=wazuh&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"><br>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 
 ---
 
