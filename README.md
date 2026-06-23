@@ -1,7 +1,5 @@
 # 🛡️ Network Analysis Lab
 
-## 📖 Network Traffic Analysis & Service Enumeration using Nmap and Wireshark
-
 ## 📌 Overview
 
 This project demonstrates a basic SOC Analyst home lab where Nmap and Wireshark were used to perform host discovery, port scanning, operating system detection, and packet analysis in a controlled environment.
