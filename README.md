@@ -75,12 +75,12 @@ sudo nmap -sn 10.171.170.0/24
 
 ---
 
-## 🚪 Step 2: TCP SYN Port Scan
+## 🚪 Step 2: Port Scan
 
 ### Command
 
 ```bash
-sudo nmap -sS 10.171.170.217
+sudo nmap -p 10.171.170.217
 ```
 
 ### 🎯 Purpose
@@ -124,8 +124,6 @@ sudo nmap -O 10.171.170.217
 Open Wireshark.
 
 Select the active network interface.
-
-Apply the following filter:
 
 ```text
 ip.addr==10.171.170.217
