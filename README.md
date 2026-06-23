@@ -98,7 +98,7 @@ sudo nmap -sS 10.171.170.217
 
 ---
 
-## 🖥️ Step 4: Operating System Detection
+## 🖥️ Step 3: Operating System Detection
 
 ### Command
 
@@ -119,7 +119,7 @@ sudo nmap -O 10.171.170.217
 
 ---
 
-## 🦈 Step 5: Network Traffic Capture
+## 🦈 Step 4: Network Traffic Capture
 
 Open Wireshark.
 
