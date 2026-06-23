@@ -75,8 +75,7 @@ sudo nmap -sn 10.171.170.0/24
 - Identify reachable systems
 
 ### 📸 Screenshot
-
-Insert Screenshot Here
+![Network Scan](screenshot/Network-scan.png)
 
 ### 📝 Observation
 
@@ -97,37 +96,14 @@ sudo nmap -sS 10.171.170.217
 
 - Identify open TCP ports
 
-### 📸 Screenshot
 
-Insert Screenshot Here
+![Port Scan](screenshot/portsacn.png)
+
 
 ### 📝 Observation
 
 - SSH port detected
 - HTTPS port detected
-
----
-
-## 🧭 Step 3: Service Enumeration
-
-### Command
-
-```bash
-sudo nmap -sV 10.171.170.217
-```
-
-### 🎯 Purpose
-
-- Identify running services
-
-### 📸 Screenshot
-
-Insert Screenshot Here
-
-### 📝 Observation
-
-- HTTPS service detected
-- Login page discovered
 
 ---
 
@@ -144,8 +120,7 @@ sudo nmap -O 10.171.170.217
 - Detect the target operating system
 
 ### 📸 Screenshot
-
-Insert Screenshot Here
+![OS & Version Scan](screenshot/os-version.png)
 
 ### 📝 Observation
 
@@ -167,8 +142,7 @@ ip.addr==10.171.170.217
 
 ### 📸 Screenshot
 
-Insert Screenshot Here
-
+![Wireshark Analysis](screenshots/wireshark-analysis.png)
 ### 📝 Observation
 
 - Network packets captured
