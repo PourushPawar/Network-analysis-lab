@@ -142,7 +142,7 @@ ip.addr==10.171.170.217
 
 ### 📸 Screenshot
 
-![Wireshark Analysis](screenshots/wireshark-analysis.png)
+![Wireshark Analysis](screenshot/wireshark-packet.png)
 ### 📝 Observation
 
 - Network packets captured
